@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Krona One', sans-serif;
+}
+
+:root {
+  --primary: #ff0000;
+  --black: #000000;
+  --black2: #111111;
+  --blackLighter: #5c5757;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5; 
+  --white: #FFFFFF;
+  --frontEnd: #09a3e8;
+  --backEnd: #028349;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+} 

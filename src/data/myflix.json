@@ -1,0 +1,127 @@
+{
+  "categorias": [
+    {
+      "titulo": "Tecnologia, Programação e etc.",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#1ba5e3",
+      "link_extra": {
+        "text": "Formações na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Imersão React Live #01 - Analisando o front-end do Netflix, do Spotify e do Ifood",
+          "url": "https://www.youtube.com/watch?v=Dcn-tVmSxyU"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+        },
+        {
+          "titulo": "Aprendendo sobre Computadores com Super Mario (do jeito Hardcore++)",
+          "url": "https://www.youtube.com/watch?v=hYJ3dvHjeOE"
+        },
+        {
+          "titulo": "Computação Gráfica | Nerdologia Tech",
+          "url": "https://www.youtube.com/watch?v=-4_OU95nKuU"
+        },
+        {
+          "titulo": "Quantas LINGUAGENS de programação EU SEI? | BackTracking #5",
+          "url": "https://www.youtube.com/watch?v=Ab33948mbW8"
+        },
+        {
+          "titulo": "O QUE É uma IMAGEM? | Processamento de Imagens #1",
+          "url": "https://www.youtube.com/watch?v=T9V_axU6jU8"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Filmes e Series",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#d99709",
+      "link_extra": {
+        "text": "Saiba mais",
+        "url": "https://www.imdb.com/"
+      },
+      "videos": [
+        {
+          "titulo": "DARK 3: UMA CONVERSA SINCERA SOBRE O FINAL (COM SPOILERS) | Análise Dark - Última Temporada",
+          "url": "https://www.youtube.com/watch?v=nEv2P3LOirc&t=1101s"
+        },
+        {
+          "titulo": "TENET | Trailer 2 Legendado",
+          "url": "https://www.youtube.com/watch?v=ZyPCLM6iG9U"
+        },
+        {
+          "titulo": "Stranger Things 4 | Da Rússia, com amor... | Netflix",
+          "url": "https://www.youtube.com/watch?v=13RzFlVP2MY"
+        },
+        {
+          "titulo": "CURSED – A LENDA DO LAGO (Katherine Langford) | Novo Trailer | Netflix",
+          "url": "https://youtu.be/4AUHZfp-0SA"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Jogos",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Saiba mais",
+        "url": "https://www.youtube.com/gaming"
+      },
+      "videos": [
+        {
+          "titulo": "Playstation 5 HONESTO",
+          "url": "https://www.youtube.com/watch?v=PxV0APU5Ovo"
+        },
+        {
+          "titulo": "Hollow Knight - Análise",
+          "url": "https://www.youtube.com/watch?v=FXXsQBW_CXg"
+        },
+        {
+          "titulo": "o dark souls das reviews de jogos",
+          "url": "https://www.youtube.com/watch?v=u89XfBFd4Mw&t=2106s"
+        },
+        {
+          "titulo": "AULA DE PHOENIX NO VAVÁ! VITÓRIA DE VIRADA!",
+          "url": "https://www.youtube.com/watch?v=Ey5Ba3iHgmE"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Animações",
+      "link": "https://pt.wikipedia.org/wiki/Anima%C3%A7%C3%A3o",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Saiba mais",
+        "url": "https://pt.wikipedia.org/wiki/Anima%C3%A7%C3%A3o"
+      },
+      "videos": [
+        {
+          "titulo": "Irmãos da Lâmina Manchada | Animação Florescer Espiritual 2020 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
+        },
+        {
+          "titulo": "1 shounen, 1 SHOUJO, 1 seinen, 1 josei e o diretor de Steins;Gate",
+          "url": "https://www.youtube.com/watch?v=8gnSi8PVvE4"
+        },
+        {
+          "titulo": "DUELISTAS // Trailer oficial de lançamento – VALORANT",
+          "url": "https://youtu.be/e_E9W2vsRbQ"
+        },
+        {
+          "titulo": "O caminho, uma lenda ioniana",
+          "url": "https://www.youtube.com/watch?v=6AJl0-luB8Y"
+        }
+      ]
+    }
+  ]
+}
