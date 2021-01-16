@@ -1,7 +1,7 @@
 # MyFlix
 
 Myflix trata-se de um agregador de conteúdo, utilizando o mesmo você pode adicionar vídeos que você deseje que outras pessoas vejam.   
-Você pode acessar a plataforma por meio desse [Link](hhttps://myflix-delta.vercel.app/).
+Você pode acessar a plataforma por meio desse [link](hhttps://myflix-delta.vercel.app/) .
 
 ## `Funcionamento`
 
